@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/tab_wechat"
+        icon="@mipmap/message_normal"
+        title="微信" />
+    <tab
+        id="@+id/tab_address_list"
+        icon="@mipmap/message_normal"
+        title="通讯录" />
+    <tab
+        id="@+id/tab_friends"
+        icon="@mipmap/message_normal"
+        title="发现" />
+    <tab
+        id="@+id/tab_mine"
+        icon="@mipmap/message_normal"
+        title="我的" />
+</tabs>
